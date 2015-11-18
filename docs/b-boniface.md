@@ -9,3 +9,5 @@
 **Occupation:** Engineer
 
 **Drink:** Water
+
+**Fetch:** Yes
